@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakshyam</h1>
-<h3 align="center">A passionate Artificial Intelligence enthusiast based in Kathmandu</h3>
+<h3 align="center">A passionate Web developer and an Artificial Intelligence enthusiast based in Kathmandu</h3>
 
 - 🔭 I am actively engaged in working with **- Machine Learning algorithms, Computer Vision, and Deep Learning.**
 
-- 🌱 I’m currently learning **Tensorflow, PyTorch**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **sakshyamshrestha27@gmail.com**
 
