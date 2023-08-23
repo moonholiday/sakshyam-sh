@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshyam</h1>
 <h3 align="center">A passionate Developer and an Artificial Intelligence enthusiast based in Kathmandu</h3>
 
-- 🔭 I’m currently working on **Computer Vision**
-
-- 🌱 I’m currently learning **Tensorflow**
-
 - 📫 How to reach me **sakshyamshrestha27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
